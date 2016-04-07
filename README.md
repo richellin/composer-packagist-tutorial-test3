@@ -1,12 +1,15 @@
-# composer-packagist-tutorial-test2
+# composer-packagist-tutorial-test3
 패키지 리스트에 등록한뒤 사용
 
 ### Before
 [composer-packagist-tutorial-test](https://github.com/richellin/composer-packagist-tutorial-test)
+
 [composer-packagist-tutorial-test2](https://github.com/richellin/composer-packagist-tutorial-test2)
 
 ### Use
-`php
+`
+composer install
+
 php index.php
 `
 
